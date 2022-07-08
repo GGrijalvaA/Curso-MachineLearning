@@ -1,2 +1,3 @@
 # Curso-MachineLearning
-Curso MachineLearning FcoRSuaRuiz-UJED
+## Curso MachineLearning FcoRSuaRuiz-UJED
+### Mi perfil: Ingeniería Electrónica, Modelado y Control de Procesos, Logica Borrosa, Redes Neuronales, Control Estadístico del proceso .... 
